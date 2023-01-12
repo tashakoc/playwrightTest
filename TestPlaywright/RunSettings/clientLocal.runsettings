@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+    <TestRunParameters>
+        <Parameter name="connectionString" value="Server=.;Database=DWPlus-Client;User Id=dwregistrar;Password=DentalWriter2022!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;Connection Timeout=30;" />
+        <Parameter name="baseAddress" value="https://localhost:44327" />
+        <Parameter name="companyLogin" value="nkocura3@gmail.com" />
+        <Parameter name="companyPassword" value="Dentalwriter2022!" />
+    </TestRunParameters>
+</RunSettings>

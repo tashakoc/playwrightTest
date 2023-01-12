@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+    <TestRunParameters>
+        <Parameter name="connectionString" value="Server=tcp:npm-dwweb-db-server-dev.database.windows.net,1433;Database=npm-dwweb-client-dev;User Id=dwweb-admin;Password=izs!s93PsAqix#D7SAu;Connect Timeout=30;MultipleActiveResultSets=false" />
+        <Parameter name="baseAddress" value="https://npm-dwweb-client-dev.azurewebsites.net/" />
+        <Parameter name="companyLogin" value="" />
+        <Parameter name="companyPassword" value="" />
+    </TestRunParameters>
+</RunSettings>
